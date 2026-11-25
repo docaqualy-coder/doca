@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GestorCorp</string>
+    <string name="servico_acessibilidade">GestorCorp — bloqueio de aplicativos</string>
+    <string name="descricao_acessibilidade">Identifica qual aplicativo está aberto para aplicar a política da empresa. O agente não lê o conteúdo da tela, textos, mensagens ou digitação.</string>
+
+    <string name="titulo_vinculo">Vincular à empresa</string>
+    <string name="ajuda_vinculo">Digite o código gerado no painel em Celulares → Vincular celular.</string>
+    <string name="campo_codigo">Código de vínculo</string>
+    <string name="botao_vincular">Vincular</string>
+    <string name="botao_sincronizar">Sincronizar política</string>
+    <string name="botao_acessibilidade">Ativar acessibilidade</string>
+    <string name="botao_admin">Ativar administrador do aparelho</string>
+    <string name="botao_desvincular">Desvincular aparelho</string>
+
+    <string name="bloqueio_titulo">%1$s está bloqueado</string>
+    <string name="bloqueio_motivo_padrao">Aplicativo restrito pela política da empresa.</string>
+    <string name="campo_senha">Senha de 4 a 6 dígitos</string>
+    <string name="desbloquear_minutos">Desbloquear por %1$d min</string>
+    <string name="senha_incorreta">Senha incorreta.</string>
+    <string name="bloqueio_sem_senha">Esta política não permite liberar o aplicativo com senha. Fale com o painel administrativo.</string>
+    <string name="voltar_inicio">Voltar ao início</string>
+</resources>
